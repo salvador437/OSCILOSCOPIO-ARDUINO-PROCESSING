@@ -25,7 +25,7 @@ void loop() {
   Serial.write( val & 0xff );
 }
 
-## <span style="color:orange">Luego ejecute este código en el IDE de procesamiento.</span>
+## <span style="color:orange">Luego ejecute este código en el IDE de Processing.</span>
 
 import processing.serial.*;
  
