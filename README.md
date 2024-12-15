@@ -2,11 +2,11 @@
 
 ¿Alguna vez has querido utilizar un osciloscopio pero no puedes permitirte uno? ¡No te preocupes! Con Arduino, el osciloscopio del pobre, podrás crear tu propio dispositivo de monitoreo de señales electrónicas de forma económica y sencilla. Descubre en este artículo cómo puedes aprovechar al máximo esta plataforma de código abierto para tus proyectos electrónicos. ¡No te lo pierdas!
 
-¡Hoy estoy hablando de un proyecto realmente bueno que puedes hacer con tu Arduino! Esta es la mejor manera de tener a mano un osciloscopio barato. No escribí este código, pero lo encontré en Internet hace algún tiempo y decidí compartir este gran proyecto. Empecemos…
+¡Hoy estoy hablando de un proyecto realmente bueno que puedes hacer con tu Arduino! Esta es la mejor manera de tener a mano un osciloscopio barato. 
 
 ![alt text](image.png)
 
-Primero, descargue Processing. Es gratis Haga click aquí para descargar. No necesitas instalar nada, se ejecuta como el IDE de Arduino.
+Primero, descargue Processing. No necesitas instalar nada, se ejecuta como el IDE de Arduino.
 
 ##  <span style="color:orange">Sube este código a tu Arduino</span>
 
